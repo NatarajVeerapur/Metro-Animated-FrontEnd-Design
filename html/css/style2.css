@@ -20,7 +20,7 @@ position: relative;
 margin-top: 80px;        
 animation: train 7s linear;
 filter: contrast(150%);
-margin-left: 1015px;
+margin-left: 1010px;
 }
 @keyframes train{
 0%{
